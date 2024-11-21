@@ -1,0 +1,74 @@
+@keyframes animation {
+    100% {
+        background-position: 50% 75%;
+    }
+}
+
+body {
+    background-image: url(rainbow-vortex.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+animation: animation 2s infinite alternate ease-in;
+}
+
+h1 {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.me {
+    color: white;
+}
+
+.box {
+    background-color: aliceblue;
+    width: 40%;
+    height: 100%;
+    margin: auto;
+    margin-top: 120px;
+    border-radius: 25px;
+    text-align: center;
+    font-family: "Inter", serif;
+}
+
+.title {
+    font-size: 26px;
+}
+
+.button {
+    background-color: #0d92f4;
+    padding: 10px 30px 10px 30px;
+    color: white;
+    text-align: center;
+    border-radius: 100px;
+}
+
+.paragraph {
+    margin-bottom: 40px;
+    text-align: justify;
+    font-size: 13px;
+    line-height: 20px;
+}
+
+.Image_Rizz {
+    background-image: url("images\ \(1\).jpeg");
+    height: 180px;
+    background-size: cover;
+    border-radius: 25px 25px 0px 0px;
+
+}
+
+.Text_Box {
+    padding: 30px;
+}
+
+.OppositeOfHeader {
+    background-color: #0d92f4;
+    height: 50px;
+    border-radius: 0px 0px 25px 25px;
+    color: white;
+    padding: 20px;
+}
+

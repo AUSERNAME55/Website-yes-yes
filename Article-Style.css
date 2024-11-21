@@ -1,0 +1,96 @@
+.Parallax1 {
+    background-image: url("msg-were-into-it.jpg");
+    background-size: cover;
+    height: 800px;
+    background-attachment: fixed;
+    
+}
+
+body{
+    margin: 0;
+}
+
+.paragraph1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-family: "Poppins", sans-serif;
+    margin: 10px 90px 10px 90px;
+    text-align: justify;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.parallax2 {
+    background-image: url(91HrxRHIXIL._AC_UF894,1000_QL80_.jpg);
+    background-size: cover;
+    height: 800px;
+    background-attachment: fixed;
+}
+
+.paragraph2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-family: "Poppins", sans-serif;
+    margin: 10px 90px 10px 90px;
+    text-align: justify;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.parallax3 {
+    background-image: url(Monosodium-glutamate-crystals.webp);
+    background-size: cover;
+    height: 800px;
+    background-attachment: fixed;
+}
+
+.paragraph3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-family: "Poppins", sans-serif;
+    margin: 10px 90px 10px 90px;
+    text-align: justify;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.parallax4 {
+    background-image: url(How\ to\ Cook\ with\ MSG\ -\ Domestic\ Dreamboat.jpeg);
+    background-size: cover;
+    height: 500px;
+    background-attachment: fixed;
+}
+
+.paragraph4 {
+    font-family: 'Courier New', Courier, monospace;
+    font-family: "Poppins", sans-serif;
+    margin: 10px 90px 10px 90px;
+    text-align: justify;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.parallax5 {
+    background-image: url(MSG\ Is\ Regaining\ Its\ Popularity\ as\ a\ Umami\ Source—Use\ It\ in\ These\ Recipes\ —\ FOOD\ &\ WINE.jpeg);
+    background-size: cover;
+    height: 500px;
+    background-attachment: fixed;
+}
+
+.paragraph5 {
+    font-family: 'Courier New', Courier, monospace;
+    font-family: "Poppins", sans-serif;
+    margin: 10px 90px 10px 90px;
+    text-align: justify;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.parallax-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    width: 100%;
+    color: white;
+    font-size: 26px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
